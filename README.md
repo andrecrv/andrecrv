@@ -6,20 +6,12 @@ At present, I’m focusing on **React.js** for frontend development and experime
 
 Feel free to explore my repositories to see what I’m working on. I’m always open to new ideas, feedback, and connections!
 
----
+<p>&nbsp;</p>
 
-### 🔧 Tech Stack:
-- **Languages**: Java, JavaScript
-- **Frontend**: React.js, React Native
-- **Backend**: Spring Boot
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: Git, npm, Expo
+## 🛠️ Tech Stack:
 
----
+### 🌐 Frontend  
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,ts)](https://skillicons.dev)
 
-### 🚀 About Me:
-- Passionate about **learning** and **problem-solving** through development.
-- Constantly working on **personal projects** to refine my skills and expand my knowledge.
-- Focused on building intuitive **frontend applications** and exploring **mobile development** with React Native.
-- Always eager to collaborate on exciting new projects and learn from others.
-
+### ⚙️ Backend  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgres,appwrite)](https://skillicons.dev)
