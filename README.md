@@ -11,7 +11,7 @@ Feel free to explore my repositories to see what I’m working on. I’m always 
 ## 🛠️ Tech Stack:
 
 ### 🌐 Frontend  
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,scss,ts,electron)](https://skillicons.dev)
 
 ### ⚙️ Backend  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgres,appwrite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgres,docker,appwrite)](https://skillicons.dev)
